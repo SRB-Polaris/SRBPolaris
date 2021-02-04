@@ -52,7 +52,7 @@ with their help, you can get the maximum performance not available with the fact
 — Added more options in the VDDCI dropdown
 
 **v3.1**<br>
-— Added option to set `Vddc state flag` (state pointer), in some cases changing this value can help you change voltage<br>
+— Added option to set "Vddc state flag" (state pointer), in some cases changing this value can help you change voltage<br>
 — Added support for several more maps
 
 **v3.0**<br>
