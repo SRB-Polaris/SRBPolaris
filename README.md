@@ -14,7 +14,7 @@ with their help, you can get the maximum performance not available with the fact
 
 # SRBPolaris features:
 - unlock additional shaders on RX460;
-  - copying / changing memory timings;
+- copying / changing memory timings;
 - set factory parameters of cards;
 - set GPU voltage parameters (Depends on VRM);
 - cooler speed;
